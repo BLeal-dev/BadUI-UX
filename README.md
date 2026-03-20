@@ -23,11 +23,11 @@ A ideia é permitir que o usuário vivencie diretamente uma experiência negativ
 
 🛠️ Tecnologias Utilizadas
 
-• HTML
+ • HTML
 
-• CSS
+ • CSS
 
-• JavaScript
+ • JavaScript
 
 📚 Contexto Acadêmico
 
