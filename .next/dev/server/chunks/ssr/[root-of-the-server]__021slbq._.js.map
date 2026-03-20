@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/bruno/OneDrive/Documentos/UFRPE/BadUIUX%20Psicologia%2001/BadUI-UX/pages/index.js"],"sourcesContent":["function Home(){\r\n    return <h1>Psicologia 01</h1>\r\n}\r\n\r\nexport default Home;"],"names":["Home"],"mappings":";;;;;;AAAA,SAASA;IACL,qBAAO,qKAAC;kBAAG;;;;;;AACf;uCAEeA"}}]
-}
